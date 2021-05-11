@@ -1,5 +1,5 @@
 # Dark-Memer-Discord-Bot.
-this is a Discord bot coded in python . 
+This is a Discord bot coded in python . 
 To use any commands relating to dark memer use"." in front of the command.
 It uses reddit api to get memes.
 Also it can reply to certain question as yes or no.
@@ -37,5 +37,9 @@ commands list
 
 .memes //shows memes 
 
+![image](https://user-images.githubusercontent.com/54681032/117868561-6220ad00-b2b7-11eb-99a4-80c16f89e68b.png)
+
 
 .dankmemes shows memes from dank category
+
+![image](https://user-images.githubusercontent.com/54681032/117868694-83819900-b2b7-11eb-80ea-59001a03a073.png)
