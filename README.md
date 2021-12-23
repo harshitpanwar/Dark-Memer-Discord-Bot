@@ -1,9 +1,9 @@
 # Dark-Memer-Discord-Bot.
-This is a Discord bot coded in python . 
-To use any commands relating to dark memer use"." in front of the command.
-It uses reddit api to get memes.
-Also it can reply to certain question as yes or no.
-It can google and search wikipedia and present the top result .
+This is a Discord bot coded in python . <br>
+To use any commands relating to dark memer use"." in front of the command. <br>
+It uses reddit api to get memes. <br>
+Also it can reply to certain question as yes or no. <br>
+It can google and search wikipedia and present the top result . <br>
 
 
 
